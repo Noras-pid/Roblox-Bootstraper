@@ -64,13 +64,10 @@ To build Roblox-Bootstraper from source, you will need:
    ```bash
    git clone https://github.com/yourusername/Roblox-Bootstraper.git
    ```
-4. **Build the Project**:
-   ```bash
-   cmake --build build --config Release
-   ```
+4. **Build the Project**
 
 5. **Run the Application**:
-   - The executable will be located in `build/Release`.
+   - The executable will be located in `Build`.
 
 ## Contributing
 
